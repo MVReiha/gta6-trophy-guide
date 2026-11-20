@@ -3,23 +3,73 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>GTA VI Trophy Guide &amp; Tracker — 55 PS5 trophies, offline</title>
+<meta name="description" content="Offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: official names, descriptions and grades, a guide for each, a roadmap to the platinum, missable flags, filters and a spoiler setting.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="hero">
+  <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; 55 trophies &middot; 1 platinum, 2 gold, 6 silver, 46 bronze</p>
+  <h1>GTA VI Trophy Guide &amp; Tracker</h1>
+  <p class="lede">Every official trophy, a guide in our own words, and a checklist that saves in your browser. Works fully offline — no network requests, ever.</p>
+  <div class="progress-wrap" aria-label="Progress">
+    <div class="progress-bar"><div id="progressFill" class="progress-fill" style="width:0%"></div></div>
+    <p id="progress" class="progress-text">0 of 55 earned &middot; 0 / 1,350 points</p>
+  </div>
+  <p class="counts" id="gradeCounts"></p>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<section class="controls" aria-label="Filters and tools">
+  <label class="control">Search <input id="search" type="search" placeholder="Search name, description or guide…"></label>
+  <label class="control">Grade
+    <select id="grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label class="control">Kind
+    <select id="kind">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="activity">Activities</option>
+      <option value="collectible">Collectibles</option>
+      <option value="crime">Crime</option>
+      <option value="money">Money</option>
+      <option value="misc">Misc</option>
+      <option value="completion">100% completion</option>
+    </select>
+  </label>
+  <label class="check"><input id="missableOnly" type="checkbox"> Missable only (9)</label>
+  <label class="check"><input id="hideEarned" type="checkbox"> Hide earned</label>
+  <label class="check" title="Hides the names and descriptions of story trophies until you tick them earned"><input id="spoiler" type="checkbox" checked> Spoiler-free: hide story trophies</label>
+  <button id="export" type="button">Export progress (JSON)</button>
+  <label class="import">Import progress <input id="import" type="file" accept="application/json,.json"></label>
+  <button id="reset" type="button">Reset checklist</button>
+</section>
+
+<section class="roadmap" id="roadmap" aria-label="Roadmap to the platinum">
+  <h2>Roadmap to the platinum — 7 stages</h2>
+  <p class="roadmap-intro">Built from the official descriptions only. Story first, stranger strands as they appear, then the grindable content, then the finale. The 9 trophies marked <strong>potentially missable</strong> are the ones whose description names one specific event or needs your partner beside you — do those when the chance first appears; it is not confirmed whether they repeat.</p>
+  <ol id="roadmapList" class="roadmap-list"></ol>
+</section>
+
+<section class="sources" aria-label="Sources and honesty note">
+  <h2>Sources &amp; honesty note</h2>
+  <p>Official names, descriptions and grades: <strong>Exophase trophy list</strong> (exophase.com/game/grand-theft-auto-vi-psn/trophies) — PSNProfiles lists the same 55. Counts (42 shooting-range challenges, 14 drone-race locations, 18 meditation spots, 52 areas, 9 gangs, 8 garages, 500 choices) are the counts PlayStation tracks for those trophies. GTA VI launched 19 November 2026, so no complete community walkthrough exists yet: every guide here is written from the official description, and any step that goes beyond it is labelled <em>inferred</em> — never presented as a verified fact. No Rockstar logo, artwork or game screenshot is used anywhere in this guide.</p>
+</section>
+
+<main>
+  <p id="resultCount" class="result-count"></p>
+  <div id="cards" class="cards"></div>
+  <p id="empty" class="empty" hidden>No trophies match these filters.</p>
+</main>
+
+<footer>
+  <p>GTA VI Trophy Guide &amp; Tracker — offline static app. Progress is saved in your browser (localStorage) and never leaves your device. Grand Theft Auto and GTA are trademarks of Take-Two Interactive; this is an unofficial fan-made guide.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>

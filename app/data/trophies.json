@@ -2,391 +2,689 @@
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
+ "source": "Exophase trophy list (https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/) — official names, descriptions and grades; PSNProfiles lists the same 55 names, descriptions and grades. GTA VI launched 2026-11-19, so no complete community walkthrough exists yet: every guide below is written from the official description itself, and any step that goes beyond the description is labelled as inferred, never presented as a verified fact.",
  "trophies": [
   {
    "id": 1,
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "points": 300,
+   "secret": false,
+   "kind": "platinum",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "The platinum. It unlocks automatically once the other 54 trophies are earned, so there is nothing to do for this one directly: follow the roadmap (story first, stranger strands as they appear, then collectibles, activities and money) and it pops last. No step here is missable on its own — the platinum only depends on the other 54. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Finish the opening mission, Gone Fishing. This is the first story mission, so the trophy unlocks by playing the story from the start — no preparation and no detour needed. It cannot be missed: story missions unlock in order and this one is first. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Play through Chapter 1 to its end. Chapter trophies unlock automatically when the chapter's final mission is complete, so just keep following the story missions in order. Not missable: chapters complete in sequence and the trophy pops on completion. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Play through Chapter 2 to its end. Like every chapter trophy, it unlocks automatically when the chapter's final mission is complete — keep following the story in order and it pops on its own. Not missable: chapters complete in sequence. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Play through Chapter 3 to its end. The trophy unlocks automatically when the chapter's final mission is complete, so no side content is required for it — just the story missions in order. Not missable: chapters complete in sequence. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Play through Chapter 4 to its end. It unlocks automatically when the chapter's final mission is complete, the same as the other chapter trophies. Not missable: chapters complete in sequence, and this is the last chapter trophy before the finale. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "points": 90,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Finish the final story mission — the last mission of the game, after Chapter 4. This is a gold trophy and it unlocks automatically on completion, so the only requirement is reaching the end of the story. Not missable: the final mission is part of the main story path. Before starting it, finish any stranger strands you still want (see Strangers & Freaks), since story content can close off after the finale — that is an inference from how story-driven games work, not a verified fact about this game. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission Breakfast Run when it appears in the mission list. Mission trophies unlock automatically on completion, so play the mission through to its end and the trophy pops. Not missable: it is a story mission, and story missions are part of the main path. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission The Cartel Heist when it appears. Heist missions in this list are story missions, so the trophy unlocks automatically on completion — play it through to the end. Not missable: it is on the main story path. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission Child's Play when it appears. The trophy unlocks automatically on mission completion — no extra objective is named in the official description, so finishing the mission is the whole requirement. Not missable: it is a story mission on the main path. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission Headliners when it appears. The trophy unlocks automatically on completion — the official description names no extra objective, so playing the mission through to the end is all it takes. Not missable: it is a story mission on the main path. Source: Exophase trophy list (official name, description, grade)."
+  }
+,
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission VCIA Takedown when it appears. The trophy unlocks automatically on completion, so play the mission through to the end. VCIA is the game's airport (Vice City International Airport, named in the description itself), and this mission is part of the main story path, so it is not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the story mission Operation Savage Glory when it appears. The trophy unlocks automatically on completion — the official description names no extra objective beyond finishing the mission. Not missable: it is a story mission on the main path. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "points": 90,
+   "secret": false,
+   "kind": "completion",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Reach 100% completion on the in-game checklist. This is the gold trophy that sits just under the platinum: it means finishing the story plus the side content the game's own 100% checklist counts — missions, stranger strands, collectibles and activities. Check the in-game stats/checklist screen to see what is still missing; the exact checklist is the game's own, and no outside source has published a verified full list yet. Not missable, but last-but-one: it usually pops just before the platinum. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete 250 stunts — jumps, near misses, drifts and other stunt actions the game counts, across the whole map. The count is cumulative over the entire playthrough, so every stunt you pull during the story and free roam adds up; there is no need to grind them all in one session. A fast approach, inferred from the count alone: repeat short stunt jumps with a fast vehicle rather than hunting one-off set pieces. Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Try each type of activity once. The game tracks 9 activity types (the starter hint and the activity trophies in this list — fishing, races, drone races, shooting range, arcade, bowling, meditation, hunting and stunt-style activities are the ones named across the list; the exact in-game roster of 9 is the game's own). Sample one of each: a fishing spot, a race, a drone race, the shooting range, an arcade machine, bowling, a meditation spot, a hunt and one more activity the game lists. Not missable — activities stay available in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges. There are 42 challenges in total (the count PlayStation tracks for this trophy), each needing a gold-medal score. Work through them weapon by weapon, replaying any challenge that lands silver or bronze until it hits gold — challenges are repeatable, so a failed run costs nothing but time. Aim for accuracy over speed where the scoring allows it; the exact scoring thresholds are the game's own. Not missable. Source: Exophase trophy list (official name, description, grade; 42-challenge count as listed by PlayStation)."
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Win a Top Fun Drone Race at every location — 14 locations in total (the count PlayStation tracks for this trophy). Fly each location's race and finish first; a win at a location counts once, so you need all 14, not 14 wins at one spot. Learn each course's line on a practice run, then race for the win — drone races are repeatable. Not missable. Source: Exophase trophy list (official name, description, grade; 14-location count as listed by PlayStation)."
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Win 20 different races. The word different matters: winning the same race 20 times does not count — you need a first-place finish in 20 distinct races across the map. Races are repeatable, so if you lose one, just run it again. Mix vehicle types and locations as you explore; the count builds up naturally over a full playthrough. Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description names one specific fishing challenge against a named character, Cal, and it is not confirmed whether that challenge can be replayed after it first appears.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Beat Cal in a fishing challenge. Cal is a named character you fish against in a specific challenge — when the fishing challenge with Cal appears, take it on and out-fish him (bigger or more catches, per the challenge's own rules). Potentially missable: the description names one specific challenge, and it is not confirmed whether it can be replayed later, so do it when it first appears rather than leaving it for post-game. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete one arcade game — play any arcade machine through to the end of a game. Arcade machines are found around Leonida (the description names no specific machine, so any one counts), and completing a single game is enough. Not missable: arcade games stay available in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the final mission in Andy's mission strand. Andy is one of the stranger/contacts characters with a multi-mission strand: work through his missions as they appear and finish the last one. The trophy unlocks automatically on completion of that final mission. Not missable on its own, but do stranger strands as they appear rather than leaving them all for after the finale (see the roadmap note on the final mission). Source: Exophase trophy list (official name, description, grade)."
+  }
+,
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the final mission in Kenton's mission strand. Kenton is one of the stranger/contacts characters with a multi-mission strand: work through his missions as they appear and finish the last one, and the trophy unlocks automatically. Not missable on its own, but do stranger strands as they appear rather than leaving them all for after the finale. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the final mission in Billy's mission strand. Billy is one of the stranger/contacts characters with a multi-mission strand: work through his missions as they appear and finish the last one, and the trophy unlocks automatically. Not missable on its own, but do stranger strands as they appear rather than leaving them all for after the finale. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "story",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: stranger strands may close as the story advances, so finish them when they appear rather than leaving them for after the final mission.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete 8 mission strands for strangers across Leonida — the side-character mission chains (Andy, Kenton, Billy, Randy and Tyrone each have one, per their own trophies, plus others). Explore the map for stranger markers and finish 8 full strands, not just 8 single missions. Potentially missable: stranger content in story-driven games can close off as the story advances, so work through strands when they appear instead of saving all 8 for after the finale — that timing advice is an inference, not a verified fact. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the final mission in Randy's mission strand. Randy is one of the stranger/contacts characters with a multi-mission strand: work through his missions as they appear and finish the last one, and the trophy unlocks automatically. Not missable on its own, but do stranger strands as they appear rather than leaving them all for after the finale. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete the final mission in Tyrone's mission strand. Tyrone is one of the stranger/contacts characters with a multi-mission strand: work through his missions as they appear and finish the last one, and the trophy unlocks automatically. Not missable on its own, but do stranger strands as they appear rather than leaving them all for after the finale. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "points": 15,
+   "secret": false,
+   "kind": "collectible",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Meditate at every meditation spot across Leonida — 18 spots in total (the count PlayStation tracks for this trophy). Find a spot, use the meditate prompt, and move to the next; the count is cumulative, so you can collect them across many sessions. Meditation spots are scenic viewpoints, so check overlooks, beaches and high ground as you explore. Not missable: spots stay available in free roam. Source: Exophase trophy list (official name, description, grade; 18-spot count as listed by PlayStation)."
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "points": 15,
+   "secret": true,
+   "kind": "story",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description names one unique animal hunt for a named character, Bret, and it is not confirmed whether that hunt can be repeated after it first appears.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Hunt a unique animal for Bret — a specific hunt tied to the character Bret, not a random animal. When Bret's hunt appears, track the unique animal and take it down; the description names a single unique target, so this is a set-piece hunt rather than general hunting. Potentially missable: it names one specific hunt, and it is not confirmed whether it can be replayed later, so do it when it first appears. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "collectible",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete 3 collectible card sets. Cards are scattered across Leonida; a set is complete when you hold every card in it, and you need 3 full sets. Collect cards as you explore — shops, hidden spots and mission rewards are the usual places cards turn up in games like this (an inference from the collectible design, not a verified fact). Not missable: cards stay collectible in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "collectible",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "WAiNK It at 100 locations. WAiNK is the in-game social/tagging activity (the name is the game's own): find 100 distinct spots and use it at each. The count is cumulative and locations must be different, so spread out across the whole map rather than repeating one spot. Not missable: locations stay available in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "points": 15,
+   "secret": false,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Complete 50 challenges — the game's own challenge list (distinct from the 250 stunts and the 42 shooting-range challenges, which have their own trophies). Challenges cover activities across the map, so this trophy fills in as you work through races, hunts, stunts and other activities. Check the in-game challenge list to see which ones you have done and pick off the easiest remaining ones. Not missable: challenges stay available in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: it requires your partner to be with you, and partner availability may end after the story, so do it while partner missions are still running.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "With your partner beside you, build a 4-star wanted level, then lose the cops and escape. The partner requirement is the hard part: do this during a mission or free-roam stretch where your partner is actually with you, not after the story when they may no longer be around — that timing risk is an inference, not a verified fact. To lose the heat, break line of sight and stay out of the search area until the stars clear. Potentially missable because of the partner requirement. Source: Exophase trophy list (official name, description, grade)."
+  }
+,
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: it requires your partner to be with you for three robberies in a row, and partner availability may end after the story.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "With your partner beside you, rob 3 shops back-to-back without losing your wanted level — the trick is the opposite of Hot Together: keep the heat, don't lose it, across all three robberies. Pick three shops close together, rob each in turn, and stay wanted the whole time (fleeing the cops entirely would break the chain, while getting busted would too — the description's own condition). Potentially missable because of the partner requirement: do it while partner missions are still running. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "points": 15,
+   "secret": false,
+   "kind": "collectible",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Discover 100 vehicles — get in or get close to 100 distinct vehicle models across Leonida. The count is cumulative and needs different vehicles, so variety matters more than mileage: try every car, bike, boat and aircraft type you come across instead of driving one favourite. Traffic, parking lots, docks and airports are the richest hunting grounds (an inference from the open-world design). Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the game's slow-motion aiming mode (the name is the game's own): trigger it during a firefight with at least 5 enemies present and drop all 5 before the effect ends. Pick a fight with a group — a gang shootout or a wanted-level standoff — rather than a lone enemy, and make every shot count. Retryable: if you only get 4, just trigger Combat Focus again in the next fight. Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "points": 15,
+   "secret": true,
+   "kind": "crime",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description names one specific unscheduled departure at the airport, and it is not confirmed whether the opportunity repeats in free roam.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Make an unscheduled departure at VCIA — the airport (Vice City International Airport). In plain terms: get a plane off the ground at the airport outside any scheduled flight or mission script, i.e. steal a plane and take off yourself. Potentially missable: the description names one specific event at one location, and it is not confirmed whether the chance repeats in free roam, so try it the first time you are at the airport with a plane in reach. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "points": 15,
+   "secret": true,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Kinda hot in these Rhinos. The Rhino is the series' tank, and the description's joke is the clue: get into a Rhino tank (or deal with Rhinos — the official description gives no number and no exact action, so this guide cannot state one honestly). The practical reading, inferred from the wording: find a Rhino, get in it and use it, and the trophy should pop; if it does not, surviving an encounter with Rhinos is the other reading. Not missable: tanks and military encounters recur in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Rob a jewelry store without being detected. Plan it like a stealth job: case the store, enter when staff and cameras are not watching, take the goods and leave before anyone raises the alarm. If you are spotted, the attempt fails the condition — but the description names no one-time store, so you can try again at another jewelry store or retry the same one. Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "points": 30,
+   "secret": false,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Rob 5 bank vaults and escape — five separate vault robberies, each ending with a clean getaway. Bank vaults are the bigger heist-style robberies in the open world (distinct from the story's Cartel Heist); plan each one, crack the vault, then lose the wanted level before the next. The count is cumulative, so spread them across the playthrough. Not missable. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Rob an armored truck and escape. Armored trucks drive set routes around Leonida: intercept one, stop it, take the cash, then lose the wanted level that follows. The name nods to the series' classic blitz-style truck robberies, but the requirement is simple — one truck, one clean escape. Not missable: armored trucks keep spawning in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "points": 15,
+   "secret": false,
+   "kind": "collectible",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Explore all of Leonida — visit all 52 areas of the map (the count PlayStation tracks for this trophy). Leonida is the whole state: Vice City plus the surrounding towns, swamps, beaches and countryside. Drive, fly and sail into every named area until the map is filled in; the in-game map shows which areas you have visited. Not missable: the map stays open in free roam. Source: Exophase trophy list (official name, description, grade; 52-area count as listed by PlayStation)."
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "points": 15,
+   "secret": false,
+   "kind": "crime",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Rob an illegal operation belonging to each gang — 9 gangs in total (the count PlayStation tracks for this trophy). Each gang runs illegal operations somewhere in Leonida; hit one operation per gang, all 9. Keep a checklist of which gangs you have hit — the trophy needs one of each, not 9 of one. Not missable: gang operations recur in free roam. Source: Exophase trophy list (official name, description, grade; 9-gang count as listed by PlayStation)."
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description names one specific moment (a cocktail with a view on Ocean Beach), and it is not confirmed whether that moment repeats in free roam.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Ocean Beach is the beachfront strip of Vice City: find a bar or venue there with a view, order a cocktail and take in the scene. Potentially missable: the description reads like a single specific moment rather than a repeatable activity, and it is not confirmed whether the prompt repeats, so take the cocktail when the opportunity first appears. Source: Exophase trophy list (official name, description, grade)."
+  }
+,
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description names one specific showroom escape, and it is not confirmed whether the showroom can be re-entered for a second try.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Smash your way out of a vehicle showroom in classic style — drive a car straight through the showroom glass and out onto the street, the series' classic showroom smash. The description names one specific event, so take the chance when you are in a showroom with a car, rather than assuming you can walk back in later. Potentially missable: it is not confirmed whether the showroom stays open for a retry. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "points": 15,
+   "secret": true,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Follow-through at the Kolt & Associates' bowling alley — play a game of bowling at that specific alley. The description names the venue, so go to the Kolt & Associates alley (not just any bowling lane) and finish a game; follow-through means completing the game rather than walking out mid-frame. Not missable: the alley stays open in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "A partnership with mass appeal. The official description is deliberately vague — it names no action, number or location — so this guide cannot honestly state a specific step. The wording points at a partnership moment that earns wide attention (a public or viral-style beat in the story or a partner activity), so play the partner content as it comes and watch for a moment built around public appeal. Not missable on the evidence available: nothing in the description names a one-time opportunity. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Choices made (for better or worse). The official description names no action or count beyond making choices — PlayStation tracks a count to 500 for this trophy, which suggests it pops after a large number of in-game choices accumulate. Keep making dialogue and decision choices as they come up throughout the story and side content; the count builds over a full playthrough. Not missable: choices recur constantly. Source: Exophase trophy list (official name, description, grade; 500-count as listed by PlayStation)."
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Second time's the charm. The official description is a hint, not a walkthrough: it points at succeeding on a second attempt at something that failed the first time. The practical reading, inferred from the wording: fail an activity or challenge once, then complete it on the retry — a second-try success. No specific activity is named, so if it does not pop naturally, retry a failed challenge deliberately. Not missable: retries are always available. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "points": 15,
+   "secret": true,
+   "kind": "misc",
+   "missable": true,
+   "missable_note": "Potentially missable — complete during this chapter: the description reads like a single strange encounter, and it is not confirmed whether that encounter repeats.",
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "What the hell just happened? The official description is a hint at a strange, unexplained encounter — the series' classic UFO/paranormal-style Easter egg, though the game itself names nothing here. Explore the odd corners of Leonida (remote spots, late-night locations) and watch for something out of the ordinary; when it happens, the trophy should pop. Potentially missable: a one-off strange encounter may not repeat, so do not walk away from a weird event without letting it play out. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "points": 15,
+   "secret": true,
+   "kind": "activity",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Bowl 'em over with a melee drive-by — knock someone down with a melee attack from a moving vehicle. Drive slowly past a pedestrian, swing a melee weapon from the vehicle, and connect: the name is a bowling pun (ten pin), so the target is one person bowled over, not a group. Retryable as many times as needed. Not missable: it can be done anywhere in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "points": 15,
+   "secret": false,
+   "kind": "money",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills are dirty cash you pick up from robberies and heists; launder them through your contacts to turn them into clean money, and the trophy pops when $250,000 of laundered earnings is reached. The count is cumulative, so launder every batch of marked bills you earn instead of sitting on them. Not missable: contacts and laundering stay available in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "points": 15,
+   "secret": false,
+   "kind": "money",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Spend $100,000 across all shops — clothing, weapons, food, vehicles, anything sold in a shop counts toward the cumulative total. The count is cumulative across the whole playthrough, so normal spending on gear, ammo and outfits adds up; if you are short near the end, buy and sell high-value items to push the total over. Not missable: shops stay open in free roam. Source: Exophase trophy list (official name, description, grade)."
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "points": 15,
+   "secret": false,
+   "kind": "money",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Purchase all garage properties — 8 in total (the count PlayStation tracks for this trophy). Garages are buyable properties around Leonida; buy each one as you earn the money, and the trophy pops on the eighth. Garages also store your vehicles, so they are worth buying early for practical reasons, not just the trophy. Not missable: properties stay for sale in free roam. Source: Exophase trophy list (official name, description, grade; 8-property count as listed by PlayStation)."
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "points": 15,
+   "secret": false,
+   "kind": "money",
+   "missable": false,
+   "source": "Exophase trophy list — official name, description and grade.",
+   "guide": "Register 10 vehicles to the Scooter Bros app. Scooter Bros is the in-game vehicle app (the name is the game's own): open it, register vehicles you own or find, and repeat until 10 are registered. The count is cumulative and needs 10 different registrations. Not missable: the app stays available in free roam. Source: Exophase trophy list (official name, description, grade)."
   }
+ ],
+ "roadmap": [
+  {"stage": 1, "title": "Story first — Chapters 1–4", "trophies": "Just Like Paradise, Paradise Lost, T**s Ass Drug Money, Vice City, Baby!, Top Of The World, Ma, Trust, Break the Bank, Family Matters, DWNFALL, Hi-Jacked, Snow Storm", "note": "Play the story in order. Chapter and mission trophies pop automatically on completion — nothing extra to do."},
+  {"stage": 2, "title": "Stranger strands as they appear", "trophies": "Road to Rehabilitation, This Was No Boat Accident, The Lone Rider, Supply & Demand, Spin On This!, Strangers & Freaks, Fair Game", "note": "Potentially missable: stranger strands may close as the story advances. Finish each strand when it appears, before the final mission."},
+  {"stage": 3, "title": "Partner & one-off moments", "trophies": "Hot Together, Retail Therapy, Catch Me If You Can, In The Beginning…, Capital Offense, The Truth Is Out There, Baited My Tackle", "note": "Potentially missable: these need a partner beside you or name one specific event. Do them the first time the chance appears."},
+  {"stage": 4, "title": "Activities & challenges", "trophies": "Cunning Stunts, Master of None, The Shootist, Top Fun, Earn Cash, Not Kudos, Stick Fiddler, One Last Thing, Let’s Go Bowling, Ten Pin, Positive Mental Attitude", "note": "Grindable in free roam: 250 stunts, 42 shooting-range golds, 14 drone-race wins, 20 race wins, 50 challenges, 18 meditation spots."},
+  {"stage": 5, "title": "Collectibles & exploration", "trophies": "Don't Touch My Deck, You WAiNKer!, Whip It Good, The Goodtime State, Pest Control", "note": "3 card sets, WAiNK at 100 spots, 100 vehicles, all 52 areas, one illegal operation per gang (9 gangs). All available in free roam."},
+  {"stage": 6, "title": "Crime & money cleanup", "trophies": "Gunslinger, Sneakthief, Maximum Withdrawal, A Classic Blitz Play, Dime on the Dollar, Treat Yo Self, Little Boxes, On the Spot", "note": "5 bank vaults, 1 armored truck, $250,000 laundered, $100,000 spent, 8 garages, 10 Scooter Bros registrations. Then the finale, 100% completion and the platinum."},
+  {"stage": 7, "title": "Finale & platinum", "trophies": "You Gotta Know When to Get Off, A Long Road, Vice Got a Price!", "note": "Finish the final mission (gold), reach 100% completion (gold), and the platinum pops last."}
  ]
 }
